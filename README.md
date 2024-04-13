@@ -22,7 +22,7 @@ Weather App Live Demo = https://weather-app-lac-nu-97.vercel.app/
 To get started with this project, clone the repository and install the dependencies.
 ```bash
 git clone https:https://github.com/Ravi192003Raj/WeatherApp
-cd weather-app
+cd WeatherApp
 npm install
 ```
 
