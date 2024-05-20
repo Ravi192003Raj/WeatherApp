@@ -59,4 +59,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - OpenWeatherMap API for providing weather data.
 - rapid or Geodb API for accessing the location and the details regarding the place.
 
-Feel free to customize this README by adding specific details of the technologies used, API information, screenshots of the app, or any other details that will help users and developers understand and use your project more effectively.
