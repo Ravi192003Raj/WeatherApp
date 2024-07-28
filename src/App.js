@@ -70,7 +70,7 @@ function App() {
           Download Source Code
         </a>{" "}
         | Developed by{" "}
-        <a target="_blank" href="https://www.linkedin.com/in/ravi-raj-99057b219/">
+        <a target="_blank" href="https://personal-portfolio-one-wine-53.vercel.app/">
           Ravi Raj
         </a>{" "}
       </div>
