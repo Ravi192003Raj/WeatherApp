@@ -46,9 +46,10 @@
 .footer-info {
   margin: 40px;
   text-align: center;
-  color: #212121;
+  color: ;
+  font-weight: bold;
 }
 .footer-info a {
-  color: rgb(97, 97, 97);
+  color: #969696;
   font-weight: bold;
 }
